@@ -1,0 +1,14 @@
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\bin\Debug\net8.0\KodlamaIoCrud.exe
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\bin\Debug\net8.0\KodlamaIoCrud.deps.json
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\bin\Debug\net8.0\KodlamaIoCrud.runtimeconfig.json
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\bin\Debug\net8.0\KodlamaIoCrud.dll
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\bin\Debug\net8.0\KodlamaIoCrud.pdb
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\obj\Debug\net8.0\KodlamaIoCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\obj\Debug\net8.0\KodlamaIoCrud.AssemblyInfoInputs.cache
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\obj\Debug\net8.0\KodlamaIoCrud.AssemblyInfo.cs
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\obj\Debug\net8.0\KodlamaIoCrud.csproj.CoreCompileInputs.cache
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\obj\Debug\net8.0\KodlamaIoCrud.dll
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\obj\Debug\net8.0\refint\KodlamaIoCrud.dll
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\obj\Debug\net8.0\KodlamaIoCrud.pdb
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\obj\Debug\net8.0\KodlamaIoCrud.genruntimeconfig.cache
+C:\Users\arife\OneDrive\Masaüstü\b\KodlamaIoCrud\obj\Debug\net8.0\ref\KodlamaIoCrud.dll
